@@ -1,0 +1,28 @@
+
+.clock{
+    position:absolute;
+    top:5%;
+    left:90%;
+    color: rgb(34, 81, 223);
+    font-size: 20px;
+    letter-spacing: 5px;
+    font-family: monospace;
+    transform: translateX(-50%) translateY(-50%);
+border: solid 5px rgb(8, 66, 181);
+border-radius: 15%;
+border-style: inset;
+}
+
+.date{
+    position:absolute;
+    top: 13%;
+    left: 90%;
+    color:rgb(34, 81, 223);
+    font-size: 20px;
+    letter-spacing: 5px;
+    font-family:monospace;
+    transform: translateX(-50%) translateY(-50%);
+    border: solid 5px rgb(8, 66, 181);
+    border-radius: 15%;
+    border-style: inset;
+}
